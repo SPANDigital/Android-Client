@@ -1,2 +1,2 @@
 # Android-Client
-This is a demo repo for ADSS Demo
+This is the Repo for Android-Client
