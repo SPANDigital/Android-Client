@@ -1,2 +1,2 @@
-# Android-Client
-This is the Repo for Android-Client
+# Studio
+This is the Repo for Studio
